@@ -1,13 +1,5 @@
-# Plasma Lyrics
+# Plasma Album Cover
 
-Get's currently playing media and attempts to display the lyrics as a widget using [LRCLIB](https://lrclib.net)
+Literally just display's the album cover, nothing else
 
-Works with Spotify, YouTube, SoundCloud and probably everything else
-
-Enabling `Allow less-accurate searches` can help if you are listening to reuploaded songs, but can give incorrect lyrics sometimes
-
-![Example 3](./example3.png)
-
-![Example 2](./example2.png)
-
-![Example 1](./example1.png)
+Oh you can click it to play/pause, advanced technology
