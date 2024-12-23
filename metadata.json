@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Lyall"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Display song album cover, that's it",
+        "Id": "com.github.lyall-a.plasma-album-cover",
+        "Icon": "view-media-album-cover",
+        "Name": "Album Cover",
+        "Website": "https://github.com/Lyall-A/Plasma-Album-Cover",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
